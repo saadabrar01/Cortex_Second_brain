@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# next.js build output
+/.next/
+/out/
+
+# production
+/build
+
+# env files
+.env
+.env*.local
+
+# MCP config (user-specific paths)
+backend/claude_desktop_config.json
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
